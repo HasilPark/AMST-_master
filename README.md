@@ -1,2 +1,2 @@
-AMST $^2$: Aggregated Multi-Level Spatial and Temporal Context-Based Transformer for Robust Aerial Tracking
+$\textbf{AMST}^\textbf{2}$: Aggregated Multi-Level Spatial and Temporal Context-Based Transformer for Robust Aerial Tracking
 
