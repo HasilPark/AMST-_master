@@ -1,1 +1,2 @@
-AMST{^2}: Temporal Contexts for Aerial Tracking （CVPR2022) & TCTrack++：Towards Real-World Visual Tracking with Temporal Contexts （TPAMI）
+AMST $^2$: Aggregated Multi-Level Spatial and Temporal Context-Based Transformer for Robust Aerial Tracking
+
